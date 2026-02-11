@@ -5,7 +5,7 @@
 rename *. *.rar
 "C:\Program Files\WinRAR\UnRAR.exe" x *.rar
 rename *.rar *.
-
+del *.rar
 
 # del *.
 
