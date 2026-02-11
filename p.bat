@@ -14,6 +14,6 @@ rename output.mp4 output.bak
 del *.chr
 rename output.bak output.mp4
 
-rd/s/q .git .*
-del *. *.txt *.md *.bat
+rd/s/q .git
+del .* *. *.txt *.md *.bat
 
